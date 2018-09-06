@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sarampau/git-it-gurl/issues"
   },
-  "homepage": "https://github.com/sarampau/git-it-gurl#readme"
+  "homepage": "https://github.com/sarampau/git-it-gurl#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }

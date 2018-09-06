@@ -4,6 +4,6 @@ starting project
 
 ```
 
-npm install
+npm i
 
 ```
